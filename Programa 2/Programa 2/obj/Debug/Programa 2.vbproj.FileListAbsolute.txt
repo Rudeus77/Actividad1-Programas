@@ -1,0 +1,11 @@
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 2\Programa 2\obj\Debug\Programa 2.vbproj.AssemblyReference.cache
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 2\Programa 2\obj\Debug\Programa_2.Resources.resources
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 2\Programa 2\obj\Debug\Programa 2.vbproj.GenerateResource.cache
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 2\Programa 2\obj\Debug\Programa 2.vbproj.CoreCompileInputs.cache
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 2\Programa 2\bin\Debug\Programa 2.exe.config
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 2\Programa 2\bin\Debug\Programa 2.exe
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 2\Programa 2\bin\Debug\Programa 2.pdb
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 2\Programa 2\bin\Debug\Programa 2.xml
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 2\Programa 2\obj\Debug\Programa 2.exe
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 2\Programa 2\obj\Debug\Programa 2.xml
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 2\Programa 2\obj\Debug\Programa 2.pdb
