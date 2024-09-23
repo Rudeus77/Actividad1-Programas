@@ -12,7 +12,7 @@
             If numeroIngresado > 0 Then
                 Console.WriteLine("Tu numero es positivo.")
 
-            ElseIf numeroIngresado < 0 Then
+            ElseIf (numeroIngresado < 0) Then
                 Console.WriteLine("Tu numero es negativo.")
 
             Else

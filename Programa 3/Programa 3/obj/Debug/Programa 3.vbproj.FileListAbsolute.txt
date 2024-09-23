@@ -1,0 +1,11 @@
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 3\Programa 3\bin\Debug\Programa 3.exe.config
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 3\Programa 3\bin\Debug\Programa 3.exe
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 3\Programa 3\bin\Debug\Programa 3.pdb
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 3\Programa 3\bin\Debug\Programa 3.xml
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 3\Programa 3\obj\Debug\Programa 3.vbproj.AssemblyReference.cache
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 3\Programa 3\obj\Debug\Programa_3.Resources.resources
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 3\Programa 3\obj\Debug\Programa 3.vbproj.GenerateResource.cache
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 3\Programa 3\obj\Debug\Programa 3.vbproj.CoreCompileInputs.cache
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 3\Programa 3\obj\Debug\Programa 3.exe
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 3\Programa 3\obj\Debug\Programa 3.xml
+C:\Users\Rudy2\Desktop\Actividad 1 Bloque I\Programa 3\Programa 3\obj\Debug\Programa 3.pdb
